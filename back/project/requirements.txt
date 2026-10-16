@@ -1,0 +1,9 @@
+Django==5.0.4
+djangorestframework>=3.15
+django-cors-headers>=4.3
+mysqlclient>=2.2
+pandas>=2.0
+XlsxWriter>=3.1
+reportlab>=4.0
+schedule>=1.2
+python-dotenv>=1.0
